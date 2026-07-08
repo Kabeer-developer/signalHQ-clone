@@ -2,7 +2,7 @@ import { useState } from "react";
 import { Link } from "react-router-dom";
 import { AnimatePresence, motion } from "framer-motion";
 import { Minus, Plus } from "lucide-react";
-import Footer from "../components/layout/Footer";
+import Footer from "../components/Layout/Footer";
 
 const steps = ["Time", "Your firm", "The number"];
 

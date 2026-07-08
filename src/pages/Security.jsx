@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 
 import Testimonials from "../sections/home/Testimonials";
 import CTA from "../sections/home/CTA";
-import Footer from "../components/layout/Footer";
+import Footer from "../components/Layout/Footer";
 
 const security = [
   { icon: <Lock size={22} />, title: "End-to-end Encryption", desc: "SOC 2 Type II" },

@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import Footer from "../components/layout/Footer";
+import Footer from "../components/Layout/Footer";
 
 const sections = [
   {
