@@ -7,7 +7,7 @@ import UseCase from "../sections/home/UseCase";
 import Testimonials from "../sections/home/Testimonials";
 import SecurityPreview from "../sections/home/SecurityPreview";
 import CTA from "../sections/home/CTA";
-import Footer from "../components/layout/Footer";
+import Footer from "../components/Layout/Footer";
 import { Cat } from "lucide-react";
 const Home=()=>{
 
